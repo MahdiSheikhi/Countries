@@ -212,6 +212,10 @@
         "continent": "North America"
     },
     {
+        "country": "Curaçao",
+        "continent": "North America"
+    },
+    {
         "country": "Cyprus",
         "continent": "Asia"
     },
@@ -356,6 +360,10 @@
         "continent": "North America"
     },
     {
+        "country": "Guernsey",
+        "continent": "Europe"
+    },
+    {
         "country": "Guinea",
         "continent": "Africa"
     },
@@ -416,6 +424,10 @@
         "continent": "Europe"
     },
     {
+        "country": "Isle of Man",
+        "continent": "Europe"
+    },
+    {
         "country": "Israel",
         "continent": "Asia"
     },
@@ -450,6 +462,10 @@
     {
         "country": "Kiribati",
         "continent": "Oceania"
+    },
+    {
+        "country": "Kosovo",
+        "continent": "Europe"
     },
     {
         "country": "Kuwait",
@@ -498,10 +514,6 @@
     {
         "country": "Macao",
         "continent": "Asia"
-    },
-    {
-        "country": "North Macedonia",
-        "continent": "Europe"
     },
     {
         "country": "Madagascar",
@@ -604,10 +616,6 @@
         "continent": "Europe"
     },
     {
-        "country": "Netherlands Antilles",
-        "continent": "North America"
-    },
-    {
         "country": "New Caledonia",
         "continent": "Oceania"
     },
@@ -638,6 +646,10 @@
     {
         "country": "North Korea",
         "continent": "Asia"
+    },
+    {
+        "country": "North Macedonia",
+        "continent": "Europe"
     },
     {
         "country": "Northern Ireland",
@@ -688,7 +700,7 @@
         "continent": "Asia"
     },
     {
-        "country": "Pitcairn",
+        "country": "Pitcairn Islands",
         "continent": "Oceania"
     },
     {
@@ -784,6 +796,10 @@
         "continent": "Asia"
     },
     {
+        "country": "Sint Maarten",
+        "continent": "North America"
+    },
+    {
         "country": "Slovakia",
         "continent": "Europe"
     },
@@ -845,6 +861,10 @@
     },
     {
         "country": "Syria",
+        "continent": "Asia"
+    },
+    {
+        "country": "Taiwan",
         "continent": "Asia"
     },
     {

@@ -9,11 +9,11 @@
     },
     {
         "country": "Algeria",
-        "city": "Alger"
+        "city": "Algiers"
     },
     {
         "country": "American Samoa",
-        "city": "Fagatogo"
+        "city": "Pago Pago"
     },
     {
         "country": "Andorra",
@@ -26,10 +26,6 @@
     {
         "country": "Anguilla",
         "city": "The Valley"
-    },
-    {
-        "country": "Antarctica",
-        "city": null
     },
     {
         "country": "Antigua and Barbuda",
@@ -53,7 +49,7 @@
     },
     {
         "country": "Austria",
-        "city": "Wien"
+        "city": "Vienna"
     },
     {
         "country": "Azerbaijan",
@@ -65,7 +61,7 @@
     },
     {
         "country": "Bahrain",
-        "city": "al-Manama"
+        "city": "Manama"
     },
     {
         "country": "Bangladesh",
@@ -81,7 +77,7 @@
     },
     {
         "country": "Belgium",
-        "city": "Bruxelles [Brussel]"
+        "city": "Brussels"
     },
     {
         "country": "Belize",
@@ -101,7 +97,7 @@
     },
     {
         "country": "Bolivia",
-        "city": "La Paz"
+        "city": "Sucre"
     },
     {
         "country": "Bosnia and Herzegovina",
@@ -112,16 +108,12 @@
         "city": "Gaborone"
     },
     {
-        "country": "Bouvet Island",
-        "city": null
-    },
-    {
         "country": "Brazil",
         "city": "Brasília"
     },
     {
         "country": "British Indian Ocean Territory",
-        "city": null
+        "city": "Diego Garcia"
     },
     {
         "country": "Brunei",
@@ -137,7 +129,7 @@
     },
     {
         "country": "Burundi",
-        "city": "Bujumbura"
+        "city": "Gitega"
     },
     {
         "country": "Cambodia",
@@ -145,7 +137,7 @@
     },
     {
         "country": "Cameroon",
-        "city": "Yaounde"
+        "city": "Yaoundé"
     },
     {
         "country": "Canada",
@@ -169,11 +161,11 @@
     },
     {
         "country": "Chile",
-        "city": "Santiago de Chile"
+        "city": "Santiago"
     },
     {
         "country": "China",
-        "city": "Peking"
+        "city": "Beijing"
     },
     {
         "country": "Christmas Island",
@@ -185,7 +177,7 @@
     },
     {
         "country": "Colombia",
-        "city": "Bogota"
+        "city": "Bogotá"
     },
     {
         "country": "Comoros",
@@ -209,7 +201,11 @@
     },
     {
         "country": "Cuba",
-        "city": "La Habana"
+        "city": "Havana"
+    },
+    {
+        "country": "Curaçao",
+        "city": "Willemstad"
     },
     {
         "country": "Cyprus",
@@ -217,7 +213,7 @@
     },
     {
         "country": "Czech Republic",
-        "city": "Praha"
+        "city": "Prague"
     },
     {
         "country": "Denmark",
@@ -233,7 +229,7 @@
     },
     {
         "country": "Dominican Republic",
-        "city": "Santo Domingo de Guzm"
+        "city": "Santo Domingo"
     },
     {
         "country": "East Timor",
@@ -273,7 +269,7 @@
     },
     {
         "country": "Ethiopia",
-        "city": "Addis Abeba"
+        "city": "Addis Ababa"
     },
     {
         "country": "Falkland Islands",
@@ -289,7 +285,7 @@
     },
     {
         "country": "Finland",
-        "city": "Helsinki [Helsingfors]"
+        "city": "Helsinki"
     },
     {
         "country": "France",
@@ -301,11 +297,11 @@
     },
     {
         "country": "French Polynesia",
-        "city": "Papeete"
+        "city": "Papeetē"
     },
     {
         "country": "French Southern territories",
-        "city": null
+        "city": "Port-aux-Français"
     },
     {
         "country": "Gabon",
@@ -333,7 +329,7 @@
     },
     {
         "country": "Greece",
-        "city": "Athenai"
+        "city": "Athens"
     },
     {
         "country": "Greenland",
@@ -341,7 +337,7 @@
     },
     {
         "country": "Grenada",
-        "city": "Saint George's"
+        "city": "St. George's"
     },
     {
         "country": "Guadeloupe",
@@ -349,11 +345,15 @@
     },
     {
         "country": "Guam",
-        "city": "Aga"
+        "city": "Hagåtña"
     },
     {
         "country": "Guatemala",
-        "city": "Ciudad de Guatemala"
+        "city": "Guatemala City"
+    },
+    {
+        "country": "Guernsey",
+        "city": "St. Peter Port"
     },
     {
         "country": "Guinea",
@@ -372,12 +372,8 @@
         "city": "Port-au-Prince"
     },
     {
-        "country": "Heard Island and McDonald Islands",
-        "city": null
-    },
-    {
         "country": "Holy See (Vatican City State)",
-        "city": "Citt"
+        "city": "Vatican City"
     },
     {
         "country": "Honduras",
@@ -385,7 +381,7 @@
     },
     {
         "country": "Hong Kong",
-        "city": "Victoria"
+        "city": "City of Victoria"
     },
     {
         "country": "Hungary",
@@ -393,7 +389,7 @@
     },
     {
         "country": "Iceland",
-        "city": "Reykjavík"
+        "city": "Reykjavik"
     },
     {
         "country": "India",
@@ -416,12 +412,16 @@
         "city": "Dublin"
     },
     {
+        "country": "Isle of Man",
+        "city": "Douglas"
+    },
+    {
         "country": "Israel",
         "city": "Jerusalem"
     },
     {
         "country": "Italy",
-        "city": "Roma"
+        "city": "Rome"
     },
     {
         "country": "Ivory Coast",
@@ -449,11 +449,15 @@
     },
     {
         "country": "Kiribati",
-        "city": "Bairiki"
+        "city": "South Tarawa"
+    },
+    {
+        "country": "Kosovo",
+        "city": "Pristina"
     },
     {
         "country": "Kuwait",
-        "city": "Kuwait"
+        "city": "Kuwait City"
     },
     {
         "country": "Kyrgyzstan",
@@ -493,15 +497,11 @@
     },
     {
         "country": "Luxembourg",
-        "city": "Luxembourg [Luxemburg/L"
+        "city": "Luxembourg"
     },
     {
         "country": "Macao",
         "city": "Macao"
-    },
-    {
-        "country": "North Macedonia",
-        "city": "Skopje"
     },
     {
         "country": "Madagascar",
@@ -517,7 +517,7 @@
     },
     {
         "country": "Maldives",
-        "city": "Male"
+        "city": "Malé"
     },
     {
         "country": "Mali",
@@ -529,7 +529,7 @@
     },
     {
         "country": "Marshall Islands",
-        "city": "Dalap-Uliga-Darrit"
+        "city": "Majuro"
     },
     {
         "country": "Martinique",
@@ -541,15 +541,15 @@
     },
     {
         "country": "Mauritius",
-        "city": "Port-Louis"
+        "city": "Port Louis"
     },
     {
         "country": "Mayotte",
-        "city": "Mamoutzou"
+        "city": "Mamoudzou"
     },
     {
         "country": "Mexico",
-        "city": "Ciudad de M"
+        "city": "Mexico City"
     },
     {
         "country": "Micronesia, Federated States of",
@@ -557,11 +557,11 @@
     },
     {
         "country": "Moldova",
-        "city": "Chisinau"
+        "city": "Chișinău"
     },
     {
         "country": "Monaco",
-        "city": "Monaco-Ville"
+        "city": "Monaco"
     },
     {
         "country": "Mongolia",
@@ -585,7 +585,7 @@
     },
     {
         "country": "Myanmar",
-        "city": "Rangoon (Yangon)"
+        "city": "Naypyidaw"
     },
     {
         "country": "Namibia",
@@ -604,12 +604,8 @@
         "city": "Amsterdam"
     },
     {
-        "country": "Netherlands Antilles",
-        "city": "Willemstad"
-    },
-    {
         "country": "New Caledonia",
-        "city": "Noum"
+        "city": "Nouméa"
     },
     {
         "country": "New Zealand",
@@ -640,12 +636,16 @@
         "city": "Pyongyang"
     },
     {
+        "country": "North Macedonia",
+        "city": "Skopje"
+    },
+    {
         "country": "Northern Ireland",
         "city": "Belfast"
     },
     {
         "country": "Northern Mariana Islands",
-        "city": "Garapan"
+        "city": "Saipan"
     },
     {
         "country": "Norway",
@@ -653,7 +653,7 @@
     },
     {
         "country": "Oman",
-        "city": "Masqat"
+        "city": "Muscat"
     },
     {
         "country": "Pakistan",
@@ -661,15 +661,15 @@
     },
     {
         "country": "Palau",
-        "city": "Koror"
+        "city": "Ngerulmud"
     },
     {
         "country": "Palestine",
-        "city": "Gaza"
+        "city": "Ramallah"
     },
     {
         "country": "Panama",
-        "city": "Ciudad de Panamá"
+        "city": "Panama City"
     },
     {
         "country": "Papua New Guinea",
@@ -688,16 +688,16 @@
         "city": "Manila"
     },
     {
-        "country": "Pitcairn",
+        "country": "Pitcairn Islands",
         "city": "Adamstown"
     },
     {
         "country": "Poland",
-        "city": "Warszawa"
+        "city": "Warsaw"
     },
     {
         "country": "Portugal",
-        "city": "Lisboa"
+        "city": "Lisbon"
     },
     {
         "country": "Puerto Rico",
@@ -713,7 +713,7 @@
     },
     {
         "country": "Romania",
-        "city": "Bucuresti"
+        "city": "Bucharest"
     },
     {
         "country": "Russia",
@@ -749,7 +749,7 @@
     },
     {
         "country": "San Marino",
-        "city": "San Marino"
+        "city": "City of San Marino"
     },
     {
         "country": "Sao Tome and Principe",
@@ -784,6 +784,10 @@
         "city": "Singapore"
     },
     {
+        "country": "Sint Maarten",
+        "city": "Philipsburg"
+    },
+    {
         "country": "Slovakia",
         "city": "Bratislava"
     },
@@ -805,7 +809,7 @@
     },
     {
         "country": "South Georgia and the South Sandwich Islands",
-        "city": null
+        "city": "King Edward Point"
     },
     {
         "country": "South Korea",
@@ -821,11 +825,11 @@
     },
     {
         "country": "Sri Lanka",
-        "city": "Colombo, Sri Jayawardenepura Kotte"
+        "city": "Colombo"
     },
     {
         "country": "Sudan",
-        "city": "Khartum"
+        "city": "Khartoum"
     },
     {
         "country": "Suriname",
@@ -846,6 +850,10 @@
     {
         "country": "Syria",
         "city": "Damascus"
+    },
+    {
+        "country": "Taiwan",
+        "city": "Taipei"
     },
     {
         "country": "Tajikistan",
@@ -877,7 +885,7 @@
     },
     {
         "country": "Trinidad and Tobago",
-        "city": "Port-of-Spain"
+        "city": "Port of Spain"
     },
     {
         "country": "Tunisia",
@@ -917,11 +925,7 @@
     },
     {
         "country": "United States",
-        "city": "Washington"
-    },
-    {
-        "country": "United States Minor Outlying Islands",
-        "city": null
+        "city": "Washington D.C."
     },
     {
         "country": "Uruguay",
@@ -929,19 +933,15 @@
     },
     {
         "country": "Uzbekistan",
-        "city": "Toskent"
+        "city": "Tashkent"
     },
     {
         "country": "Vanuatu",
-        "city": "Port-Vila"
+        "city": "Port Vila"
     },
     {
         "country": "Venezuela",
         "city": "Caracas"
-    },
-       {
-        "country": "Vetican City",
-        "city": "Vetican City"
     },
     {
         "country": "Vietnam",
@@ -965,11 +965,11 @@
     },
     {
         "country": "Western Sahara",
-        "city": "El-Aai"
+        "city": "El Aaiún"
     },
     {
         "country": "Yemen",
-        "city": "Sanaa"
+        "city": "Sana'a"
     },
     {
         "country": "Zambia",

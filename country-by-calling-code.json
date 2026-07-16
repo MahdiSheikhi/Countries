@@ -212,6 +212,10 @@
         "calling_code": 53
     },
     {
+        "country": "Curaçao",
+        "calling_code": 599
+    },
+    {
         "country": "Cyprus",
         "calling_code": 357
     },
@@ -356,6 +360,10 @@
         "calling_code": 502
     },
     {
+        "country": "Guernsey",
+        "calling_code": 44
+    },
+    {
         "country": "Guinea",
         "calling_code": 224
     },
@@ -416,6 +424,10 @@
         "calling_code": 353
     },
     {
+        "country": "Isle of Man",
+        "calling_code": 44
+    },
+    {
         "country": "Israel",
         "calling_code": 972
     },
@@ -450,6 +462,10 @@
     {
         "country": "Kiribati",
         "calling_code": 686
+    },
+    {
+        "country": "Kosovo",
+        "calling_code": 383
     },
     {
         "country": "Kuwait",
@@ -498,10 +514,6 @@
     {
         "country": "Macao",
         "calling_code": 853
-    },
-    {
-        "country": "North Macedonia",
-        "calling_code": 389
     },
     {
         "country": "Madagascar",
@@ -568,6 +580,10 @@
         "calling_code": 976
     },
     {
+        "country": "Montenegro",
+        "calling_code": 382
+    },
+    {
         "country": "Montserrat",
         "calling_code": 1664
     },
@@ -600,10 +616,6 @@
         "calling_code": 31
     },
     {
-        "country": "Netherlands Antilles",
-        "calling_code": 599
-    },
-    {
         "country": "New Caledonia",
         "calling_code": 687
     },
@@ -634,6 +646,10 @@
     {
         "country": "North Korea",
         "calling_code": 850
+    },
+    {
+        "country": "North Macedonia",
+        "calling_code": 389
     },
     {
         "country": "Northern Ireland",
@@ -684,7 +700,7 @@
         "calling_code": 63
     },
     {
-        "country": "Pitcairn",
+        "country": "Pitcairn Islands",
         "calling_code": 64
     },
     {
@@ -780,6 +796,10 @@
         "calling_code": 65
     },
     {
+        "country": "Sint Maarten",
+        "calling_code": 1721
+    },
+    {
         "country": "Slovakia",
         "calling_code": 421
     },
@@ -842,6 +862,10 @@
     {
         "country": "Syria",
         "calling_code": 963
+    },
+    {
+        "country": "Taiwan",
+        "calling_code": 886
     },
     {
         "country": "Tajikistan",

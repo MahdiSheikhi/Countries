@@ -212,6 +212,10 @@
         "location": "Caribbean"
     },
     {
+        "country": "Curaçao",
+        "location": "Caribbean"
+    },
+    {
         "country": "Cyprus",
         "location": "Middle East"
     },
@@ -253,7 +257,7 @@
     },
     {
         "country": "England",
-        "location": null
+        "location": "British Isles"
     },
     {
         "country": "Equatorial Guinea",
@@ -356,6 +360,10 @@
         "location": "Central America"
     },
     {
+        "country": "Guernsey",
+        "location": "British Isles"
+    },
+    {
         "country": "Guinea",
         "location": "Western Africa"
     },
@@ -416,6 +424,10 @@
         "location": "British Isles"
     },
     {
+        "country": "Isle of Man",
+        "location": "British Isles"
+    },
+    {
         "country": "Israel",
         "location": "Middle East"
     },
@@ -450,6 +462,10 @@
     {
         "country": "Kiribati",
         "location": "Micronesia"
+    },
+    {
+        "country": "Kosovo",
+        "location": "Southeast Europe"
     },
     {
         "country": "Kuwait",
@@ -498,10 +514,6 @@
     {
         "country": "Macao",
         "location": "Eastern Asia"
-    },
-    {
-        "country": "North Macedonia",
-        "location": "Southern Europe"
     },
     {
         "country": "Madagascar",
@@ -568,6 +580,10 @@
         "location": "Eastern Asia"
     },
     {
+        "country": "Montenegro",
+        "location": "Southeast Europe"
+    },
+    {
         "country": "Montserrat",
         "location": "Caribbean"
     },
@@ -598,10 +614,6 @@
     {
         "country": "Netherlands",
         "location": "Western Europe"
-    },
-    {
-        "country": "Netherlands Antilles",
-        "location": "Caribbean"
     },
     {
         "country": "New Caledonia",
@@ -636,8 +648,12 @@
         "location": "Eastern Asia"
     },
     {
+        "country": "North Macedonia",
+        "location": "Southern Europe"
+    },
+    {
         "country": "Northern Ireland",
-        "location": null
+        "location": "British Isles"
     },
     {
         "country": "Northern Mariana Islands",
@@ -684,7 +700,7 @@
         "location": "Southeast Asia"
     },
     {
-        "country": "Pitcairn",
+        "country": "Pitcairn Islands",
         "location": "Polynesia"
     },
     {
@@ -757,7 +773,7 @@
     },
     {
         "country": "Scotland",
-        "location": null
+        "location": "British Isles"
     },
     {
         "country": "Senegal",
@@ -778,6 +794,10 @@
     {
         "country": "Singapore",
         "location": "Southeast Asia"
+    },
+    {
+        "country": "Sint Maarten",
+        "location": "Caribbean"
     },
     {
         "country": "Slovakia",
@@ -844,6 +864,10 @@
         "location": "Middle East"
     },
     {
+        "country": "Taiwan",
+        "location": "Eastern Asia"
+    },
+    {
         "country": "Tajikistan",
         "location": "Southern and Central Asia"
     },
@@ -857,7 +881,7 @@
     },
     {
         "country": "The Democratic Republic of Congo",
-        "location": null
+        "location": "Central Africa"
     },
     {
         "country": "Togo",
@@ -941,15 +965,15 @@
     },
     {
         "country": "Virgin Islands, British",
-        "location": null
+        "location": "Caribbean"
     },
     {
         "country": "Virgin Islands, U.S.",
-        "location": null
+        "location": "Caribbean"
     },
     {
         "country": "Wales",
-        "location": null
+        "location": "British Isles"
     },
     {
         "country": "Wallis and Futuna",
