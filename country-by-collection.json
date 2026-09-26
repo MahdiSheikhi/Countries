@@ -1,0 +1,1247 @@
+[
+    {
+        "country": "Afghanistan",
+        "Banknote": "10",
+        "includedInCollection": true
+    },
+    {
+        "country": "Albania",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Algeria",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "American Samoa",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Andorra",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Angola",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Anguilla",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Antarctica",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Antigua and Barbuda",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Argentina",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Armenia",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Aruba",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Australia",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Austria",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Azerbaijan",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Bahamas",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Bahrain",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Bangladesh",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Barbados",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Belarus",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Belgium",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Belize",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Benin",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Bermuda",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Bhutan",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Bolivia",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Bosnia and Herzegovina",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Botswana",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Bouvet Island",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Brazil",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "British Indian Ocean Territory",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Brunei",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Bulgaria",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Burkina Faso",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Burundi",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Cambodia",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Cameroon",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Canada",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Cape Verde",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Cayman Islands",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Central African Republic",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Chad",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Chile",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "China",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Christmas Island",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Cocos (Keeling) Islands",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Colombia",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Comoros",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Congo",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Cook Islands",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Costa Rica",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Croatia",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Cuba",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Curaçao",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Cyprus",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Czech Republic",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Denmark",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Djibouti",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Dominica",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Dominican Republic",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "East Timor",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Ecuador",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Egypt",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "El Salvador",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "England",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Equatorial Guinea",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Eritrea",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Estonia",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Eswatini",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Ethiopia",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Falkland Islands",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Faroe Islands",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Fiji Islands",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Finland",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "France",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "French Guiana",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "French Polynesia",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "French Southern territories",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Gabon",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Gambia",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Georgia",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Germany",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Ghana",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Gibraltar",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Greece",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Greenland",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Grenada",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Guadeloupe",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Guam",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Guatemala",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Guernsey",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Guinea",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Guinea-Bissau",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Guyana",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Haiti",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Heard Island and McDonald Islands",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Holy See (Vatican City State)",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Honduras",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Hong Kong",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Hungary",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Iceland",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "India",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Indonesia",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Iran",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Iraq",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Ireland",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Isle of Man",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Israel",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Italy",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Ivory Coast",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Jamaica",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Japan",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Jordan",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Kazakhstan",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Kenya",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Kiribati",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Kosovo",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Kuwait",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Kyrgyzstan",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Laos",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Latvia",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Lebanon",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Lesotho",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Liberia",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Libya",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Liechtenstein",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Lithuania",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Luxembourg",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Macao",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Madagascar",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Malawi",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Malaysia",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Maldives",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Mali",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Malta",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Marshall Islands",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Martinique",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Mauritania",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Mauritius",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Mayotte",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Mexico",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Micronesia, Federated States of",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Moldova",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Monaco",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Mongolia",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Montenegro",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Montserrat",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Morocco",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Mozambique",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Myanmar",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Namibia",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Nauru",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Nepal",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Netherlands",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "New Caledonia",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "New Zealand",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Nicaragua",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Niger",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Nigeria",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Niue",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Norfolk Island",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "North Korea",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "North Macedonia",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Northern Ireland",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Northern Mariana Islands",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Norway",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Oman",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Pakistan",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Palau",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Palestine",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Panama",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Papua New Guinea",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Paraguay",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Peru",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Philippines",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Pitcairn Islands",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Poland",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Portugal",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Puerto Rico",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Qatar",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Reunion",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Romania",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Russia",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Rwanda",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Saint Helena",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Saint Kitts and Nevis",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Saint Lucia",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Saint Pierre and Miquelon",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Saint Vincent and the Grenadines",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Samoa",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "San Marino",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Sao Tome and Principe",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Saudi Arabia",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Scotland",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Senegal",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Serbia",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Seychelles",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Sierra Leone",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Singapore",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Sint Maarten",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Slovakia",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Slovenia",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Solomon Islands",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Somalia",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "South Africa",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "South Georgia and the South Sandwich Islands",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "South Korea",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "South Sudan",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Spain",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Sri Lanka",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Sudan",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Suriname",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Svalbard and Jan Mayen",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Sweden",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Switzerland",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Syria",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Taiwan",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Tajikistan",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Tanzania",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Thailand",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "The Democratic Republic of Congo",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Togo",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Tokelau",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Tonga",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Trinidad and Tobago",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Tunisia",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Turkey",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Turkmenistan",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Turks and Caicos Islands",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Tuvalu",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Uganda",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Ukraine",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "United Arab Emirates",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "United Kingdom",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "United States",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "United States Minor Outlying Islands",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Uruguay",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Uzbekistan",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Vanuatu",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Venezuela",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Vietnam",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Virgin Islands, British",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Virgin Islands, U.S.",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Wales",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Wallis and Futuna",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Western Sahara",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Yemen",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Zambia",
+        "Banknote": "0",
+        "includedInCollection": false
+    },
+    {
+        "country": "Zimbabwe",
+        "Banknote": "0",
+        "includedInCollection": false
+    }
+]
